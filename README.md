@@ -3,4 +3,4 @@ Python's [parselmouth](https://parselmouth.readthedocs.io/en/stable/) package ma
 
 The goal of this tool is to make it easier to find and address issues as they happen. You can run it, start speaking, and immediately see the pitch and formant measurements. The purpose of this tool, then, is not to create a perfectly clean pitch and formant measuring tool (though that could be a future extension); instead, it helps to see where the measurements go wrong as they happen.
 
-In the file 'realtime_speech_analysis.ipynb', each cell introduces a new real-time audio analysis tool. Using the '%matplotlib notebook' command, it runs in Jupyter Notebook.
+In the file **realtime_speech_analysis.ipynb**, each cell introduces a new real-time audio analysis tool. Using the **%matplotlib notebook** command, it runs in Jupyter Notebook.
